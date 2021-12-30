@@ -16,3 +16,5 @@
 2. [Process API, Process Creation, and Process State](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch2%20Virtualization/Topic%201%20Process/%E3%80%90OS%E3%80%91Day7.pdf)
 3. [Process Data Structures](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch2%20Virtualization/Topic%201%20Process/%E3%80%90OS%E3%80%91Day7\(2%EF%BC%89.pdf)
 4. [Homework](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch2%20Virtualization/Topic%201%20Process/%E3%80%90OS%E3%80%91Day7(3).pdf)
+### Topic2 Process API
+  1. [System Call fork() and wait()](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch2%20Virtualization/Topic%202%20Process%20API/%E3%80%90OS%E3%80%91Day8.pdf)
