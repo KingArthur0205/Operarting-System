@@ -20,3 +20,6 @@
 ### Topic2 Process API
 1. [System Call fork() and wait()](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch2%20Virtualization/Topic%202%20Process%20API/%E3%80%90OS%E3%80%91Day8.pdf)
 2. [Usage of exec() and fork()](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch2%20Virtualization/Topic%202%20Process%20API/%E3%80%90OS%E3%80%91Day8(2).pdf)
+### Topic3 Limited Direct Execution
+1. [Process Control](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch2%20Virtualization/Topic%203%20Limited%20Direct%20Execution/%E3%80%90OS%E3%80%91Day10.pdf)
+2. [Context Switch](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch2%20Virtualization/Topic%203%20Limited%20Direct%20Execution/%E3%80%90OS%E3%80%91Day11.pdf)
