@@ -26,3 +26,4 @@
 ### Topic4 CPU Scheduling
 1. [Turnaround Time Metric, FIFO policy, SJF policy, and SJCF policy](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch2%20Virtualization/Topic%204%20CPU%20Scheduling/%E3%80%90OS%E3%80%91Day12.pdf)
 2. [Response Time metric, Round Robin policy, and Incorprate IO](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch2%20Virtualization/Topic%204%20CPU%20Scheduling/%E3%80%90OS%E3%80%91Day12(2).pdf)
+3. [Homework](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch2%20Virtualization/Topic%204%20CPU%20Scheduling/%E3%80%90OS%E3%80%91Day12(3).pdf)
