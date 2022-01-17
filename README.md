@@ -49,3 +49,4 @@
 ### Topic4 Segmentation
 1. [Intro to Segmentation&Reference to Segment by Virtual Address](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch3%20Memory%20Virtualization/Topic4%20Segmentation/%E3%80%90OS%E3%80%91Day19.pdf)
 2. [Convert Address of Stack&Support for Sharing](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch3%20Memory%20Virtualization/Topic4%20Segmentation/%E3%80%90OS%E3%80%91Day19(2).pdf)
+3. [Homework](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch3%20Memory%20Virtualization/Topic4%20Segmentation/%E3%80%90OS%E3%80%91Day19(3).pdf)
