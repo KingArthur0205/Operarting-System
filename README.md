@@ -68,3 +68,4 @@
 1. [Swap Page](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch3%20Memory%20Virtualization/Topic9%20Swapping/%E3%80%90OS%E3%80%91Day26.pdf)
 ### Topic10 Swapping Policy
 1. [Metrics: Average Access Memory Time, The Optimal Policy&FIFO Policy](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch3%20Memory%20Virtualization/Topic9%20Swapping/%E3%80%90OS%E3%80%91Day26.pdf)
+2. [Least-Recently-Used Policy, Approximating LRU&Clock Algorithm](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch3%20Memory%20Virtualization/Topic10%20Swapping%20Policy/%E3%80%90OS%E3%80%91Day28.pdf)
