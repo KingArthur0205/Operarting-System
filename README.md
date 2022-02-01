@@ -72,3 +72,6 @@
 3. [Homework](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch3%20Memory%20Virtualization/Topic10%20Swapping%20Policy/%E3%80%90OS%E3%80%91Day28(2).pdf)
 ### Topic11 Case Study
 1. [Case Study of The Linux Virtual Memory System](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch3%20Memory%20Virtualization/Topic11%20Case%20Study/%E3%80%90OS%E3%80%91Day29.pdf)
+## Chapter4 Concurrency
+### Topic1 Concurrency and Threads
+1. [Intro to Threads](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch4%20Concurrency/Topic1%20Concurrency%20and%20Threads/%E3%80%90OS%E3%80%91Day30.pdf)
