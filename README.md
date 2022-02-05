@@ -79,3 +79,5 @@
 3. [Homework](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch4%20Concurrency/Topic1%20Concurrency%20and%20Threads/%E3%80%90OS%E3%80%91Day30(3).pdf)
 ### Topic2 Thread API
 1. [Thread Creation&Intro to Locks](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch4%20Concurrency/Topic2%20Thread%20API/%E3%80%90OS%E3%80%91Day31.pdf)
+### Topic3 Locks
+1. [Basic Idea and Interrupts Controlling](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch4%20Concurrency/Topic3%20Locks/%E3%80%90OS%E3%80%91Day32.pdf)
