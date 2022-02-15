@@ -85,3 +85,5 @@
 3. [Load-Linked and Store-Conditional](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch4%20Concurrency/Topic3%20Locks/%E3%80%90OS%E3%80%91Day33(2).pdf)
 4. [Yield Control and Using Queues: Sleeping instead of Spinning](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch4%20Concurrency/Topic3%20Locks/%E3%80%90OS%E3%80%91Day33(3).pdf)
 5. [Homework](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch4%20Concurrency/Topic3%20Locks/%E3%80%90OS%E3%80%91Day34.pdf)
+### Topic4 Lock-based Data Structures
+1. [Counter and Linked List](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch4%20Concurrency/Topic3%20Locks/%E3%80%90OS%E3%80%91Day34.pdf)
