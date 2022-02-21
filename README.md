@@ -88,4 +88,9 @@
 ### Topic4 Lock-based Data Structures
 1. [Counter and Linked List](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch4%20Concurrency/Topic3%20Locks/%E3%80%90OS%E3%80%91Day34.pdf)
 2. [Concurrent Queues and Hash Table](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch4%20Concurrency/Topic4%20Lock-based%20Data%20Structures/%E3%80%90OS%E3%80%91Day35(2).pdf)
-3. [Direct Memory Access](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic1%20IO%20Devices/%E3%80%90OS%E3%80%91Day39.pdf)
+## Chapter5 Persistence:
+### Topic1 I/O Devices
+1. [System Architecture and Hardware API](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic1%20IO%20Devices/%E3%80%90OS%E3%80%91Day38.pdf)
+2. [Direct Memory Access](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic1%20IO%20Devices/%E3%80%90OS%E3%80%91Day39.pdf)
+### Topic2 Hard Disk
+1. [Intro to Disk: Platter, Surface, Track, and Sector](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic2%20Hard%20Disk%20Drive/%E3%80%90OS%E3%80%91Day40.pdf)
