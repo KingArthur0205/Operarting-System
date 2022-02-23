@@ -97,5 +97,5 @@
 2. [Disk Scheduling](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic2%20Hard%20Disk%20Drive/%E3%80%90OS%E3%80%91Day40(2).pdf)
 3. [Homework](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic2%20Hard%20Disk%20Drive/%E3%80%90OS%E3%80%91Day41.pdf)
 ### Topic3 Redundant Arrays of Inexpensive Disks
-1. [Intro to RAID and RAID0]()
+1. [Intro to RAID and RAID0](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic3%20RAID/%E3%80%90OS%E3%80%91Day41(2).pdf)
 2. [Analyze RAID-0 and RAID-1](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic3%20RAID/%E3%80%90OS%E3%80%91Day42.pdf)
