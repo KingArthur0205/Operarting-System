@@ -100,3 +100,5 @@
 1. [Intro to RAID and RAID0](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic3%20RAID/%E3%80%90OS%E3%80%91Day41(2).pdf)
 2. [Analyze RAID-0 and RAID-1](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic3%20RAID/%E3%80%90OS%E3%80%91Day42.pdf)
 3. [RAID-4 and RAID-5](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic3%20RAID/%E3%80%90OS%E3%80%91Day43.pdf)
+### Topic4 Interlude: Files and Directories
+1. [Files&Directories and Reading&Writing Files](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic4%20Interlude%20Files%20and%20Directories/%E3%80%90OS%E3%80%91Day43(2).pdf)
