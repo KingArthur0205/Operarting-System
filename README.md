@@ -103,3 +103,4 @@
 ### Topic4 Interlude: Files and Directories
 1. [Files&Directories and Reading&Writing Files](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic4%20Interlude%20Files%20and%20Directories/%E3%80%90OS%E3%80%91Day43(2).pdf)
 2. [File Table Entry, fork() and dup()](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic4%20Interlude%20Files%20and%20Directories/%E3%80%90OS%E3%80%91Day44.pdf)
+3. [Intermediate Write and Renaming Files](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic4%20Interlude%20Files%20and%20Directories/%E3%80%90OS%E3%80%91Day44(2).pdf)
