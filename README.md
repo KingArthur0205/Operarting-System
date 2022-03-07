@@ -97,7 +97,7 @@
 3. [Intermediate Write and Renaming Files](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic4%20Interlude%20Files%20and%20Directories/%E3%80%90OS%E3%80%91Day44(2).pdf)
 4. [Getting Info about Files, Remove Files, Make Directories, and Delete Directories](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic4%20Interlude%20Files%20and%20Directories/%E3%80%90OS%E3%80%91Day44(3).pdf)
 5. [Hard Links](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic4%20Interlude%20Files%20and%20Directories/%E3%80%90OS%E3%80%91Day45.pdf)
-
+6. [Symbolic Link, File Permission Bits, and Mount](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Ch5%20Persistence/Topic4%20Interlude%20Files%20and%20Directories/%E3%80%90OS%E3%80%91Day46.pdf)
   
   # <strong> [现代操作系统-第四版]()
 ## Chapter1 导论
