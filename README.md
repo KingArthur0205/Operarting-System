@@ -106,6 +106,8 @@
 1. [Services, The Role of OS, and System Space](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day1.pdf)
 2. [File Commands](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day1(2).pdf)
 3. [Users and Programs: Interface and Engine](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day2.pdf)
+5. [Implement more](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day2(2).pdf) <br>
+[Implementation of more.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/Code/more.c)
   
   # <strong> [现代操作系统-第四版]()
 ## Chapter1 导论
