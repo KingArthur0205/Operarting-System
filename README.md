@@ -111,6 +111,7 @@
 6. [Connect more to Keyboard](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day3.pdf)
 ## Chapter 2 Users, Files, and the Manual
 1. [The who and man command](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day3(2).pdf)
+2. [Read the Manpage of who](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day3(3).pdf)
 
   # <strong> [现代操作系统-第四版]()
 ## Chapter1 导论
