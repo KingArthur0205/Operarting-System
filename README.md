@@ -106,20 +106,12 @@
 1. [Services, The Role of OS, and System Space](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day1.pdf)
 2. [File Commands](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day1(2).pdf)
 3. [Users and Programs: Interface and Engine](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day2.pdf)
-5. [Implement more](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day2(2).pdf) <br>
+5. [Code for more.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day2(2).pdf) <br>
 [Implementation of more.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/Code/more.c)
 6. [Connect more to Keyboard](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day3.pdf)
 ## Chapter 2 Users, Files, and the Manual
 1. [The who and man command](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day3(2).pdf)
 2. [Read the Manpage of who](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day3(3).pdf)
 3. [Read utmp.h and Start to write who](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day4.pdf)
-4. [open, read, and write System Call and First Version of who.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day4(2).pdf)
-  
-  # <strong> [现代操作系统-第四版]()
-## Chapter1 导论
-1. 什么是操作系统 <br>
-&emsp; 1. [操作系统介绍](https://github.com/KingArthur0205/Operarting-System/blob/main/%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/Ch1%20%E5%AF%BC%E8%AE%BA/%E3%80%90OS%E3%80%91Day_1.pdf)
-&emsp; 2. [操作系统的任务](https://github.com/KingArthur0205/Operarting-System/blob/main/%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/Ch1%20%E5%AF%BC%E8%AE%BA/%E3%80%90OS%E3%80%91Day2.pdf)
-&emsp; 3. [处理器](https://github.com/KingArthur0205/Operarting-System/blob/main/%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/Ch1%20%E5%AF%BC%E8%AE%BA/%E3%80%90OS%E3%80%91Day3.pdf)
-&emsp; 4. [进程&文件](https://github.com/KingArthur0205/Operarting-System/blob/main/%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/Ch1%20%E5%AF%BC%E8%AE%BA/%E3%80%90OS%E3%80%91Day4.pdf)
-<hr>
+4. [open, read, and write System Call and First Version of who1.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day4(2).pdf)
+<br>[Code for who1.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/Code/who1.c)
