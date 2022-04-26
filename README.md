@@ -117,3 +117,4 @@
 <br>[Code for who1.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/Code/who1.c)
 5. [Suppress Blank Records and Print Time](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day5.pdf)
 <br>[Code for who2.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/Code/who2.c)
+6. [Creat and Write](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day6.pdf)
