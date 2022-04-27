@@ -106,17 +106,22 @@
 1. [Services, The Role of OS, and System Space](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day1.pdf)
 2. [File Commands](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day1(2).pdf)
 3. [Users and Programs: Interface and Engine](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day2.pdf)
-5. [Code for more.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day2(2).pdf) <br>
-[Implementation of more.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/Code/more.c)
-6. [Connect more to Keyboard](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day3.pdf)
+4. [Connect more to Keyboard](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/%E3%80%90Linux_Programming%E3%80%91Day3.pdf)
+  
+### Code of Chapter 1
+1. [Implementation of more.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch1%20Unix%20Systems%20Programming_The%20Big%20Picture/Code/more.c)
+  
 ## Chapter 2 Users, Files, and the Manual
 1. [The who and man command](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day3(2).pdf)
 2. [Read the Manpage of who](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day3(3).pdf)
 3. [Read utmp.h and Start to write who](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day4.pdf)
 4. [open, read, and write System Call and First Version of who1.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day4(2).pdf)
-<br>[Code for who1.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/Code/who1.c)
 5. [Suppress Blank Records and Print Time](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day5.pdf)
-<br>[Code for who2.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/Code/who2.c/who2.c)
-<br> [Code for utmplib.h](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/Code/who2.c/utmplib.h)
 6. [Creat and Write](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/%E3%80%90Linux_Programming%E3%80%91Day6.pdf)
-<br>[Code for cp1.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/Code/cp1.c)
+
+### Code of Ch 2
+1. [Code for who1.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/Code/who1.c)
+2. [Code for utmplib.h](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/Code/who2.c/utmplib.h)
+3. [Code for who2.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/Code/who2.c/who2.c)
+4. [whoami.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/Code/whoami.c/whoami.c)
+5. [Code for cp1.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch2%20Users%2C%20Files%2C%20and%20the%20Manual/Code/cp1.c)
