@@ -17,9 +17,10 @@ int main(int argc, char* argv[]) {
 	int utmp_fd;
 	struct utmp log_in_info;
 
+	char *utmp_file = argc > 1 ? argv[1] : UTMP_FILE;
 	// 2. Call the open system call to open the utmp file
 	// UTMP_FILE is defined in <utmp.h>
-	if((utmp_fd = open(UTMP_FILE, O_RDONLY)) == -1) {
+	if((utmp_fd = open(utmp_file, O_RDONLY)) == -1) {
 		perror(UTMP_FILE);
 		exit(1);
 	}
@@ -37,7 +38,7 @@ void show_info(struct utmp *log_in_info) {
 	printf(" ");
 	printf("%-8.8s", log_in_info -> ut_line); // Print the tty
 	printf(" ");
-	printf("%101d", log_in_info -> ut_time); // Print the log-in time
+	printf("%-101d", log_in_info -> ut_time); // Print the log-in time
 	printf(" ");
 #ifdef SHOWHOST
 	printf("(%s)", log_in_info -> ut_host);
