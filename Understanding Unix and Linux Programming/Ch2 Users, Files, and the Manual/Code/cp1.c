@@ -2,12 +2,14 @@
 #include <fcntl.h>
 #include <stdlib.h>
 #include <stdio.h>
+#include <string.h>
 
 /**
  * cp source-file dest-file
  * 1. Make sure that argc == 3
- * 2. Open the two files. If dest-file doesn't exist, create.
- * 3. Read the file. If the returned read-size is > 0, put it in the dest-file
+ * 2. Make sure the source and destination file is not the same.
+ * 3. Open the two files. If dest-file doesn't exist, create.
+ * 4. Read the file. If the returned read-size is > 0, put it in the dest-file
  */
 
 #define READ_SIZE 128
@@ -24,6 +26,10 @@ int main(int argc, char* argv[]) {
 		fprintf(stderr, "Missing file argument.\n");
 		exit(1);
 	}
+
+    // If the source of destination file is the same
+    if(strcmp(argv[1], argv[2]) == 0)
+        oops("Cannot copy the same file: ", argv[1]);
 
 	// Open the source file
 	if((src_fd = open(*++argv, O_RDONLY)) == -1) {
@@ -54,7 +60,7 @@ int main(int argc, char* argv[]) {
 }
 
 void oops(const char* s1, const char* s2) {
-	fprintf(stderr, "%s%s", s1, s2);
+	fprintf(stderr, "%s%s\n", s1, s2);
 	perror(s2);
 	exit(1);	
 }
