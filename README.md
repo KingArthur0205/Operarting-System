@@ -129,4 +129,7 @@
   
   ## Chapter 3 Directories and File Properties
   1. [Intro to ls](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch3%20Directories%20and%20File%20Properties/%E3%80%90Linux_Programming%E3%80%91Day7.pdf)
- 2. []()
+ 2. [DIR and struct dirent](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch3%20Directories%20and%20File%20Properties/%E3%80%90Linux_Programming%E3%80%91Day8.pdf)
+  
+### Code of Chapter 3
+1. [Code of ls1.c]()
