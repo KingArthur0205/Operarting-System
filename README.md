@@ -133,3 +133,4 @@
   
 ### Code of Chapter 3
 1. [Code of ls1.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch3%20Directories%20and%20File%20Properties/Code/ls1.c)
+2. [Stat and Permission-Bit String](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch3%20Directories%20and%20File%20Properties/%E3%80%90Linux_Programming%E3%80%91Day9.pdf)
