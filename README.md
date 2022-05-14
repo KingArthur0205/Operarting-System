@@ -134,3 +134,9 @@
 ### Code of Chapter 3
 1. [Code of ls1.c](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch3%20Directories%20and%20File%20Properties/Code/ls1.c)
 2. [Stat and Permission-Bit String](https://github.com/KingArthur0205/Operarting-System/blob/main/Understanding%20Unix%20and%20Linux%20Programming/Ch3%20Directories%20and%20File%20Properties/%E3%80%90Linux_Programming%E3%80%91Day9.pdf)
+
+  
+# Beginning Linux Programming
+## [Chapter 1: Getting Started](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch1%20Getting%20Started/%E3%80%90Linux_Programming%E3%80%91Day1.pdf)
+## Chapter 2: Shell Programming
+1. [Intro to Shell and Pipe and Redirection](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day2.pdf)
