@@ -140,3 +140,4 @@
 ## [Chapter 1: Getting Started](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch1%20Getting%20Started/%E3%80%90Linux_Programming%E3%80%91Day1.pdf)
 ## Chapter 2: Shell Programming
 1. [Intro to Shell and Pipe and Redirection](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day2.pdf)
+2. [Writing Interactive Programs using Shell](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day3.pdf)
