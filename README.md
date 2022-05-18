@@ -142,3 +142,4 @@
 1. [Intro to Shell and Pipe and Redirection](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day2.pdf)
 2. [Writing Interactive Programs using Shell](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day3.pdf)
 3. [Writing Script and Making it Executable](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day3(2).pdf)
+4. [Shell Programming: Quoting, Variable Declaration, Environment/Parameter Variable](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day4.pdf)
