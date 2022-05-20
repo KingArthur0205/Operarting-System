@@ -145,3 +145,4 @@
 4. [Shell Programming: Quoting, Variable Declaration, Environment/Parameter Variable](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day4.pdf)
 5. [Conditions: test and \[](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day5.pdf)
 6. [if, elif, and for](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day5(2).pdf)
+7. [while, until, and case](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day6.pdf)
