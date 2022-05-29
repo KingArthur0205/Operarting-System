@@ -150,3 +150,4 @@
 9. [Command(1): :, break, and continue](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day8.pdf)
 10. [Command(2): The . command, echo, eval, and exec](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day8(2).pdf)
 11. [Command(3): exit, expr, export, set, shift](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day9.pdf)
+12. [Command(4): unset and trap](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day9(2).pdf)
