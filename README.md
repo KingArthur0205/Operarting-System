@@ -153,5 +153,5 @@
 12. [Command(4): unset and trap](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day9(2).pdf)
 13. [Find and Grep](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch2%20Shell%20Programming/%E3%80%90Linux_Programming%E3%80%91Day10.pdf)
 ## Chapter 3: Linux File System
-1. []()
+1. [Directories, Files and Devices](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch3%20Working%20with%20Files/%E3%80%90Linux_Programming%E3%80%91Day11.pdf)
 2. [System Calls: open, close, read, write, and ioctl](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch3%20Working%20with%20Files/%E3%80%90Linux_Programming%E3%80%91Day12.pdf)
