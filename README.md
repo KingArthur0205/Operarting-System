@@ -155,3 +155,4 @@
 ## Chapter 3: Linux File System
 1. [Directories, Files and Devices](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch3%20Working%20with%20Files/%E3%80%90Linux_Programming%E3%80%91Day11.pdf)
 2. [System Calls: open, close, read, write, and ioctl](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch3%20Working%20with%20Files/%E3%80%90Linux_Programming%E3%80%91Day12.pdf)
+3. [lseek, stat, and dup](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch3%20Working%20with%20Files/%E3%80%90Linux_Programming%E3%80%91Day12(2).pdf)
