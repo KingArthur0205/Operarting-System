@@ -158,3 +158,4 @@
 3. [lseek, stat, and dup](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch3%20Working%20with%20Files/%E3%80%90Linux_Programming%E3%80%91Day12(2).pdf)
 4. [C I/O Library Functions](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch3%20Working%20with%20Files/%E3%80%90Linux_Programming%E3%80%91Day13.pdf)
 5. [printf and scanf](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch3%20Working%20with%20Files/%E3%80%90Linux_Programming%E3%80%91Day14.pdf)
+6. [Scanning Directories](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch3%20Working%20with%20Files/%E3%80%90Linux_Programming%E3%80%91Day15.pdf)
