@@ -163,3 +163,4 @@
 ## Chapter 4: The Linux Enviornment
 1. [Program Arguments and getopt](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch4%20The%20Linux%20Enviornment/%E3%80%90Linux_Programming%E3%80%91Day17.pdf)
 2. [Enviornment Variable](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch4%20The%20Linux%20Enviornment/%E3%80%90Linux_Programming%E3%80%91Day17(2).pdf)
+3. [Time and Date](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch4%20The%20Linux%20Enviornment/%E3%80%90Linux_Programming%E3%80%91Day17(3).pdf)
