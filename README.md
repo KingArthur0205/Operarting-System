@@ -8,3 +8,4 @@
 ### Linux Utilities
 1. [wcat](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Projects/unix-utilities/wcat.c)
 2. [wgrep](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Projects/unix-utilities/wgrep.c)
+3. [wzip](https://github.com/KingArthur0205/Operarting-System/blob/main/Operating%20System_Three%20Easy%20Pieces%20Note/Projects/unix-utilities/wzip.c)
