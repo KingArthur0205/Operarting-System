@@ -31,3 +31,4 @@
 6. [Logging and Resources and Limits](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch4%20The%20Linux%20Enviornment/%E3%80%90Linux_Programming%E3%80%91Day19.pdf)
 ## Chapter 5: Terminal
 1. [Reading from and Writing to the Terminal](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch5%20Terminals/%E3%80%90Linux_Programming%E3%80%91Day20.pdf)
+2. [The termios Structure](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch5%20Terminals/%E3%80%90Linux_Programming%E3%80%91Day21.pdf)
