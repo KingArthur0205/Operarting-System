@@ -40,8 +40,6 @@ In either mode, if the user hits the end-of-file marker(EOF), `exit(0)` is calle
 
 To parse the input line into constituent pieces, we use `strsep()`. 
 
-![捕获.PNG](%E3%80%90Project%E3%80%91artsh%201b239ef457354628b006fd675ca1d6fc/%E6%8D%95%E8%8E%B7.png)
-
 To execute commands, we use `fork()`, `exec()`, and `wait()`/`waitpid()`.
 
 We use `execv()`. If `execv()` is successful, it will not return. If it returns, there is an error.
