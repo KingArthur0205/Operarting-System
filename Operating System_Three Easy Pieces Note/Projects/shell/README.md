@@ -1,8 +1,5 @@
 # 【Project】artsh
 
-Date: June 15, 2022
-Summary: Arthur Shell
-
 ### 1. Program Specification
 
 My shell is called `artsh`. It is an interactive loop: repeatedly prints a prompt `artsh>`, parses the input, executes the command specified on that line of input, and waits for the command to finish.
@@ -82,4 +79,4 @@ char error_message[30] = "An error has occurred\n";
 write(STDERR_FILENO, error_message, strlen(error_message));
 ```
 
-After most errors, your shell simply *continue processing* after printing the one and only error message. However, if the shell is invoked with more than one file, or if the shell is passed a bad batch file, it should exit by calling `exit(1)`
+After most errors, tje shell simply *continue processing* after printing the one and only error message. However, if the shell is invoked with more than one file, or if the shell is passed a bad batch file, it should exit by calling `exit(1)`
