@@ -32,5 +32,6 @@
 ## Chapter 5: Terminal
 1. [Reading from and Writing to the Terminal](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch5%20Terminals/%E3%80%90Linux_Programming%E3%80%91Day20.pdf)
 2. [The termios Structure](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch5%20Terminals/%E3%80%90Linux_Programming%E3%80%91Day21.pdf)
-## Chapter 6: Data Management
+## Chapter 7: Data Management
 1. [Create Lock Files and Regional Lock Use flock](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch7%20Data%20Management/%E3%80%90Linux_Programming%E3%80%91Day22.pdf)
+2. [gdbm Access Functions](https://github.com/KingArthur0205/Operarting-System/blob/main/Beginning%20Linux%20Programming/Ch7%20Data%20Management/%E3%80%90Linux_Programming%E3%80%91Day23.pdf)
